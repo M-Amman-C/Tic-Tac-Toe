@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo apt -y upgrade && sudo apt -y update
+#sudo apt -y upgrade && sudo apt -y update
 sudo apt install -y nodejs
 sudo apt install -y npm
 sudo apt install -y git
