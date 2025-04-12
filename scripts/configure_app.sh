@@ -6,6 +6,8 @@ sudo apt install -y npm
 sudo apt install -y git
 sudo apt install -y nginx
 
+#Trying Hooks
+
 npm -v
 node -v
 git -v
