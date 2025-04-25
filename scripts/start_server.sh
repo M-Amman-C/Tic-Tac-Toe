@@ -7,3 +7,5 @@ pm2 save  # Save the pm2 process list to start on reboot
 
 sudo nginx -t
 sudo nginx -s reload
+
+echo "server started"
