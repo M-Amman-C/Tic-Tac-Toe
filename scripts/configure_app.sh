@@ -1,10 +1,10 @@
 #!/bin/bash
 
 #sudo apt -y upgrade && sudo apt -y update
-sudo apt install -y nodejs
-sudo apt install -y npm
-sudo apt install -y git
-sudo apt install -y nginx
+sudo yum install -y nodejs
+sudo yum install -y npm
+sudo yum install -y git
+sudo yum install -y nginx
 
 #Trying Hooks
 
